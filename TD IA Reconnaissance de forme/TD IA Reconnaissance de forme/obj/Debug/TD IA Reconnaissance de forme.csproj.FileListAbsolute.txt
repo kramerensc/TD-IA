@@ -1,0 +1,9 @@
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\bin\Debug\TD IA Reconnaissance de forme.exe.config
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\bin\Debug\TD IA Reconnaissance de forme.exe
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\bin\Debug\TD IA Reconnaissance de forme.pdb
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\obj\Debug\TD IA Reconnaissance de forme.csprojResolveAssemblyReference.cache
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\obj\Debug\TD_IA_Reconnaissance_de_forme.Form1.resources
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\obj\Debug\TD_IA_Reconnaissance_de_forme.Properties.Resources.resources
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\obj\Debug\TD IA Reconnaissance de forme.csproj.GenerateResource.Cache
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\obj\Debug\TD IA Reconnaissance de forme.exe
+c:\users\ekramer\documents\visual studio 2015\Projects\TD IA Reconnaissance de forme\TD IA Reconnaissance de forme\obj\Debug\TD IA Reconnaissance de forme.pdb
